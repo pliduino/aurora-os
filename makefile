@@ -1,4 +1,6 @@
 ASM=nasm
+CC16=/usr/bin/watcom/bin1/wcc
+LD16=/usr/bin/watcom/bin1/wlink
 
 SRC=src
 BUILD_DIR=build
